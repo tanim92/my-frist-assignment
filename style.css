@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.heading{
+    border-left: 3px solid blue;
+    padding: 5px;
+}
+span{
+    color:orange;
+}
+.flexible-conteiner{
+    display: flex;
+    margin: 30px;
+   
+   
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    margin-left: 5%;
+
+    
+}
+.half-width img{
+    width:80%;
+    margin-right: 20px;
+
+}
+.button{
+    background-color: orange;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.mission{
+    width: 250px;
+    background-color: cadetblue;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 5px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 12px gray;
+    align-items: center;
+    justify-content:center;
+}
+.div-img img{
+    width: 100%;
+}
+.align-text{
+    text-align: center;
+}
