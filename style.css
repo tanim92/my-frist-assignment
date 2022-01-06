@@ -15,6 +15,7 @@ span{
    
    
 }
+
 .half-width{
     width: 50%;
     padding-left: 2%;
@@ -50,4 +51,9 @@ span{
 }
 .align-text{
     text-align: center;
+}
+#bg-img{
+    background-image: url(mission-2022/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:left;
 }
