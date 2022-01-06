@@ -62,3 +62,13 @@ span{
     background-position:right top;
 
 }
+.half-width img{
+    width: 50%;
+}
+footer{
+    background-color:rgb(58, 56, 56);
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    width: 100%;
+}
